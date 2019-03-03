@@ -4,5 +4,3 @@ ID|Title|DisplayName|Link + parameter BB=1|Geography|Priority|PartialKW|ExactKW|
 3|BB:Bing|Bing|https://www.bing.com/?BB=1|Global|3|home, insider, homesite|home page|||Houston||||||||,,,,,
 4|BB:Amazon|Amazon|https://www.amazon.com/?BB=1|Global|3|home, insider, homesite|home page|||Houston||||||||,,,,,
 5|BB:Best Buy|Best Buy|https://www.bestbuy.com/?BB=1|Global|3|home, insider, homesite|home page|||Houston||||||||,,,,,
-918|BB:Google|Google|http://www.google.com?BB=1|Global|3|search||||Houston||||||||,,,,,
-925|BB:Google|Google|http://www.google.com?BB=1|Global|3|search,test,now||||Houston||||||||,,,,,
